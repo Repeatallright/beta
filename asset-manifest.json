@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c88c70b.css",
+    "main.js": "/static/js/main.8226a509.js",
+    "static/media/photomode_28122020_204006.png": "/static/media/photomode_28122020_204006.764dd7abcb47ba8c504d.png",
+    "static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (17).png": "/static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (17).017bf1deb537efb9913f.png",
+    "static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (1).png": "/static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (1).218cf19cf013a4586447.png",
+    "static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (2).png": "/static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (2).7dd0f900a3f3275877df.png",
+    "static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (33).png": "/static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (33).b049dc968545c2845693.png",
+    "static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (5).png": "/static/media/Ð¡Ð½Ð¸Ð¼Ð¾Ðº ÑÐºÑÐ°Ð½Ð° (5).4c2465ff35c978aea3f0.png",
+    "static/media/7.jpg": "/static/media/7.783349e142a255b44e36.jpg",
+    "static/media/user1.png": "/static/media/user1.acb97e6e6ec99576074d.png",
+    "static/media/user2.png": "/static/media/user2.1e949c20cb04f936f2b0.png",
+    "index.html": "/index.html",
+    "main.1c88c70b.css.map": "/static/css/main.1c88c70b.css.map",
+    "main.8226a509.js.map": "/static/js/main.8226a509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c88c70b.css",
+    "static/js/main.8226a509.js"
+  ]
+}
